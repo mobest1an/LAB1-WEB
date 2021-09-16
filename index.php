@@ -211,9 +211,10 @@ function startCheck()
         }
 
         .container-result {
+            width: 100%;
             padding-top: 30px;
             text-align: center;
-            width: 850px;
+            max-width: 850px;
             color: #536e7b;
         }
 
