@@ -43,6 +43,7 @@ function startCheck()
     <style>
         body {
             width: 100%;
+            min-width: 740px;
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
